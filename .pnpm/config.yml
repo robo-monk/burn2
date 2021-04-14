@@ -1,0 +1,6 @@
+manager: yarn
+
+package_npm_name: burn2
+package_name: burn2
+
+test?: no # or yes
